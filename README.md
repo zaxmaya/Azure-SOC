@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project I construct a hoineynet within Azure, integrating log sources from different resources into a Log Analytic workspace. This workspace is utlized by Mircosft Sentinel for generating attack maps, initating alerts, and generating incidents. For 24 hours i conducted secuirty metic assesments in an unsecured environment. I strengthened the envirnment by applying some security controls and reassessed for another 24 hours, then show the results below. The metrics we will show are:
+In this project I construct a honeynet within Azure, integrating log sources from different resources into a Log Analytic workspace. This workspace is utilized by Mircosft Sentinel for generating attack maps, initiating alerts, and generating incidents. For 24 hours I conducted security metic assessments in an unsecured environment. I strengthened the environment by applying some security controls and reassessing for another 24 hours, then showing the results below. The metrics we will show are:
 
 - SecurityEvent (Windows Event Logs)
 - Syslog (Linux Event Logs)
