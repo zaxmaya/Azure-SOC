@@ -1,4 +1,4 @@
-# Building a Honeynet in Azure and a SOC
+# Building a Honeynet in Azure
 
 ## Introduction
 
