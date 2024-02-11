@@ -11,7 +11,7 @@ In this project I construct a hoineynet within Azure, integrating log sources fr
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/a/LJlIa54.png)
+![Architecture Diagram](https://imgur.com/a/LJlIa54.png)
 
 ## Architecture After Hardening / Security Controls
 ![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
