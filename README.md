@@ -47,7 +47,7 @@ Stop Time 2024-02-10 21:33:51
 | Syslog                   | 50365
 | SecurityAlert            | 6
 | SecurityIncident         | 314
-| NSGInboundMaliciousFlows | 38368
+| AzureNetworkAnalytics_CL | 38368
 
 ## Attack Maps After Hardening / Security Controls
 
